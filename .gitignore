@@ -1,0 +1,12 @@
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# If you want to SHARE some settings (like Run Configurations),
+# you can use these negative patterns:
+! .idea/runConfigurations/
+! .idea/vcs.xml
+! .idea/scopes/
