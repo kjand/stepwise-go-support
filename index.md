@@ -32,4 +32,4 @@ Open Settings in the app and adjust your daily goal.
 
 Stepwise Go uses Apple Health step count data to provide app functionality.
 Health data is not sold.
-For privacy questions, contact mmproductions@online.com.
+For privacy questions, contact mmproductions@online.no
