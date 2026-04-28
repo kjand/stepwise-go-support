@@ -1,6 +1,6 @@
 # Privacy Policy for Stepwise Go
 
-_Last updated: April 27, 2026_
+_Last updated: April 28, 2026_
 
 Stepwise Go is designed to help you track daily step progress on iPhone and Apple Watch.
 
